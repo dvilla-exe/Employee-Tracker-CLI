@@ -18,7 +18,8 @@ others can contribute by updating the tables and prompts to add more employee de
 to test simply ensure postgres connection, run the application, and check if the changes are saved properly in the database
 
 ## Demo
-I have also provided a demo of the app and its functionality in the code found at './Employee-Tracker-Demo.mp4'
+I have also provided a demo of the app and its functionality in the code found at './Employee-Tracker-Demo.mp4't 
+This video is also uploaded to youtube at https://www.youtube.com/watch?v=8MNAXq_fTgA.
 
 ## Questions
 For questions, please contact me via:
